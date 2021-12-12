@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مشروعى</string>
+    <string name="enter">دخول</string>
+    <string name="password">كلمة السر</string>
+    <string name="project_monitor">مراقبة المشروع</string>
+    <string name="belt">السير</string>
+    <string name="ensure">تأكد أن كل اجزاء المشروع تعمل بصورة صحيحة</string>
+    <string name="filling">"تعبئة "</string>
+    <string name="cap_laying">وضع غطاء</string>
+    <string name="capping">ربط الغطاء</string>
+    <string name="hours">ساعات</string>
+    <string name="products">المنتجات</string>
+    <string name="date">التاريخ</string>
+    <string name="automatic">تشغيل تلقائى</string>
+    <string name="control_title">تحكم في كل جزء من أجزاء المشروع ، أو اضبط لتشغيل المشروع تلقائيًا</string>
+    <string name="run_belt">مفتاح السير</string>
+    <string name="filling_switch">مفتاح التعبئة</string>
+    <string name="laying_switch">مفتاح وضع الغطاء</string>
+    <string name="capping_switch">مفتاح ربط الغطاء</string>
+    <string name="immediate_stop">توقف فورى</string>
+    <string name="warning">تحذير</string>
+    <string name="the_right">لديك صلاحية ايقاف المشروع اى وقت</string>
+    <string name="old_password">كلمة السر القديمة</string>
+    <string name="new_password">كلمة السر الجديدة</string>
+    <string name="project_control">قيادة المشروع</string>
+    <string name="settings">الاعدادات</string>
+    <string name="histroy_of_production">"تاريخ الانتاج "</string>
+    <string name="change_password">تغيير كلمة السر</string>
+</resources>

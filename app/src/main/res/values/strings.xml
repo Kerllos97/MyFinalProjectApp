@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string name="enter">Enter</string>
+    <string name="password">password</string>
+    <string name="project_monitor">Project Monitor</string>
+    <string name="belt">Belt</string>
+    <string name="ensure">Ensure that all parts of the project are working properly.</string>
+    <string name="filling">Filling</string>
+    <string name="cap_laying">Cap Laying</string>
+    <string name="capping">Capping</string>
+    <string name="histroy_of_production">Production History ► </string>
+    <string name="hours">Hours</string>
+    <string name="products">Products</string>
+    <string name="date">Date</string>
+    <string name="automatic">Run automatically \t\t\t\t\t\t\t</string>
+    <string name="control_title">Control each part of the project, or set to run the project automatically</string>
+    <string name="run_belt">Belt switch \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t</string>
+    <string name="filling_switch">Filling switch \t\t\t\t\t\t\t\t\t\t\t\t\t\t</string>
+    <string name="laying_switch">Laying switch \t\t\t\t\t\t\t\t\t\t\t\t\t</string>
+    <string name="capping_switch">Capping switch \t\t\t\t\t\t\t\t\t\t\t</string>
+    <string name="immediate_stop">Immediate STOP</string>
+    <string name="warning">Warning : \n You can not control the project while another user\'s control !</string>
+    <string name="the_right">You have the Right to STOP the project any time.</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="project_control">PROJECT CONTROL</string>
+    <string name="settings">Settings</string>
+    <string name="change_password">Change password</string>
+</resources>
